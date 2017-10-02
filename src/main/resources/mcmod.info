@@ -1,0 +1,16 @@
+[
+{
+  "modid": "appliedcompat",
+  "name": "Applied Compatibility",
+  "description": "A mod to make Applied Energistics work nicer with other mods.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Robot_Gryphon"],
+  "credits": "A few other community members and the base Spatial-Compat mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
